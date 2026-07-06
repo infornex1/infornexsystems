@@ -71,3 +71,23 @@ body{
 .btn:hover{
     background:#e56d00;
 }
+.about{
+    padding:80px 10%;
+    background:white;
+}
+
+.about h2{
+    text-align:center;
+    color:#0A2540;
+    font-size:38px;
+    margin-bottom:30px;
+}
+
+.about p{
+    text-align:center;
+    line-height:1.8;
+    font-size:18px;
+    color:#555;
+    max-width:900px;
+    margin:auto;
+}
